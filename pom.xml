@@ -11,6 +11,7 @@
 
     <modules>
         <module>mapreduce-action</module>
+        <module>spark-action</module>
         <module>spark-streaming-action</module>
         <module>spark-stream-comment-analyze</module>
     </modules>
@@ -43,7 +44,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.skrein.spark.core.AccumulatorApp</mainClass>
+                            <mainClass>com.skrein.spark.action.sex.SparkAgeSex</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

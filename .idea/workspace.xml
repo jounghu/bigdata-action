@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c92d325a-e8db-4dfd-aa73-8770b3508aac" name="Default Changelist" comment="" />
+    <list default="true" id="2ce8d6e0-7201-4255-9436-247eefda8917" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-action/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-action/src/main/java/com/skrein/spark/action/SparkWordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-action/src/main/java/com/skrein/spark/action/age/RandomAge.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-action/src/main/java/com/skrein/spark/action/age/SparkAvgAge.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-action/src/main/java/com/skrein/spark/action/sex/RandomAgeAndSex.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-action/src/main/java/com/skrein/spark/action/sex/SparkAgeSex.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-action.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,8 +26,33 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -22,15 +62,24 @@
         <option name="userSettingsFile" value="F:\DevTool\apache-maven-3.5.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1SodC0jgTv2ai01DjoJzfKt7OLX" />
+  <component name="ProjectId" id="1TBmGXyj9SNp3f8yuIoYnZdiPrI" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark-stream-comment-analyze/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/age1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v8.4.0/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -39,12 +88,11 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.skrein.spark.action.sex" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\ad-dev\spark-streaming-in-action\bigdata-action\spark-stream-comment-analyze\src\main\resources" />
-      <recent name="C:\ad-dev\spark-streaming-in-action\bigdata-action\spark-stream-comment-analyze\src\main" />
-      <recent name="C:\ad-dev\spark-streaming-in-action\bigdata-action\spark-stream-comment-analyze" />
-      <recent name="C:\ad-dev\spark-streaming-in-action\bigdata-action\spark-streaming-action" />
-      <recent name="C:\ad-dev\spark-streaming-in-action\bigdata-action\mapreduce-action" />
+      <recent name="C:\A-Dev\bigdata\bigdata-action\age1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -59,14 +107,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.skrein.comment.App" />
-      <module name="spark-stream-comment-analyze" />
+  <component name="RunManager" selected="Application.RandomAgeAndSex">
+    <configuration name="RandomAge" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.skrein.spark.action.age.RandomAge" />
+      <module name="spark-action" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.skrein.comment.*" />
+          <option name="PATTERN" value="com.skrein.spark.action.age.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,13 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FenciService" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.skrein.comment.service.FenciService" />
-      <module name="spark-stream-comment-analyze" />
+    <configuration name="RandomAgeAndSex" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.skrein.spark.action.sex.RandomAgeAndSex" />
+      <module name="spark-action" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.skrein.comment.service.*" />
+          <option name="PATTERN" value="com.skrein.spark.action.sex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,27 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OffsetService" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.skrein.comment.service.OffsetService" />
-      <module name="spark-stream-comment-analyze" />
+    <configuration name="SparkAvgAge" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.skrein.spark.action.age.SparkAvgAge" />
+      <module name="spark-action" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.skrein.comment.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProducerService" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.skrein.comment.ProducerService" />
-      <module name="spark-stream-comment-analyze" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.skrein.comment.*" />
+          <option name="PATTERN" value="com.skrein.spark.action.age.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,10 +174,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProducerService" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.FenciService" />
-        <item itemvalue="Application.OffsetService" />
+        <item itemvalue="Application.RandomAgeAndSex" />
+        <item itemvalue="Application.RandomAge" />
+        <item itemvalue="Application.SparkAvgAge" />
       </list>
     </recent_temporary>
   </component>
@@ -152,30 +185,41 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c92d325a-e8db-4dfd-aa73-8770b3508aac" name="Default Changelist" comment="" />
-      <created>1572233750147</created>
+      <changelist id="2ce8d6e0-7201-4255-9436-247eefda8917" name="Default Changelist" comment="" />
+      <created>1572941768163</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572233750147</updated>
-      <workItem from="1572233752822" duration="21871000" />
+      <updated>1572941768163</updated>
+      <workItem from="1572941771888" duration="10994000" />
+      <workItem from="1573035550491" duration="3034000" />
+      <workItem from="1573039148819" duration="1857000" />
+      <workItem from="1573041848544" duration="2271000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/spark-stream-comment-analyze/src/main/scala/com/skrein/comment/service/FenciService.scala</url>
-          <line>57</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/spark-stream-comment-analyze/src/main/scala/com/skrein/comment/service/FenciService.scala</url>
-          <line>39</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/spark-action/src/main/java/com/skrein/spark/action/sex/SparkAgeSex.scala</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

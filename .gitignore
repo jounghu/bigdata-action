@@ -1,3 +1,7 @@
 */target/
 !/.idea/
 tmp/
+!/ages/
+!/ages.zip
+!/ages/
+!/ageSex/

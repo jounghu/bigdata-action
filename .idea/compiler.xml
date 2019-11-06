@@ -9,6 +9,7 @@
         <module name="spark-streaming-action" />
         <module name="spark-stream-comment-analyze" />
         <module name="mapreduce-action" />
+        <module name="spark-action" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

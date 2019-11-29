@@ -1,4 +1,4 @@
-package com.skrein.spark.action.age
+package com.skrein.spark.sql.action.age
 
 import org.apache.spark.{SparkConf, SparkContext}
 

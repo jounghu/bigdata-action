@@ -1,4 +1,4 @@
-package com.skrein.spark.action
+package com.skrein.spark.sql.action
 
 import org.apache.spark.{SparkConf, SparkContext}
 
